@@ -1,0 +1,1434 @@
+1589747422317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWs8rFC"
+1589747423088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589747423088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589747423088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589747423089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589747425541	Marionette	INFO	Listening on port 46531
+1589747425631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+[Parent 19130, Gecko_IOThread] WARNING: pipe error (136): Conexão fechada pela outra ponta: file /build/firefox-W4ZBKx/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589747455552	Marionette	INFO	Stopped listening on port 46531
+1589747506713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekrtfGl"
+1589747507483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589747507483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589747507483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589747507483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589747509910	Marionette	INFO	Listening on port 37595
+1589747509930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+[Parent 19385, Gecko_IOThread] WARNING: pipe error (87): Conexão fechada pela outra ponta: file /build/firefox-W4ZBKx/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589747642277	Marionette	INFO	Stopped listening on port 37595
+1589747682984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTgr3jc"
+1589747683723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589747683723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589747683723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589747683723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589747686228	Marionette	INFO	Listening on port 44259
+1589747686299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 19834, Gecko_IOThread] WARNING: pipe error (134): Conexão fechada pela outra ponta: file /build/firefox-W4ZBKx/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589747758951	Marionette	INFO	Stopped listening on port 44259
+1589747836525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefmOeU3"
+1589747837260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589747837260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589747837261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589747837261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589747839737	Marionette	INFO	Listening on port 34497
+1589747839843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589747886765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileopAZC1"
+1589747887510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589747887510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589747887511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589747887511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589747889880	Marionette	INFO	Listening on port 46491
+1589747889982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589747897899	Marionette	INFO	Stopped listening on port 34497
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+[Parent 20396, Gecko_IOThread] WARNING: pipe error (136): Conexão fechada pela outra ponta: file /build/firefox-W4ZBKx/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589747922124	Marionette	INFO	Stopped listening on port 46491
+1589747950527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileorUReq"
+1589747951284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589747951284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589747951284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589747951285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589747953690	Marionette	INFO	Listening on port 34413
+1589747953747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+[Parent 20661, Gecko_IOThread] WARNING: pipe error (88): Conexão fechada pela outra ponta: file /build/firefox-W4ZBKx/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1589748499939	Marionette	INFO	Stopped listening on port 34413
+1589748531404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOvrMJb"
+1589748532143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589748532144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589748532144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589748532145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589748534700	Marionette	INFO	Listening on port 40271
+1589748534728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589748879607	Marionette	INFO	Stopped listening on port 40271
+1589748882231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep9z2W2"
+1589748882973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589748882973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589748882973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589748882974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589748885449	Marionette	INFO	Listening on port 40845
+1589748885548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589749713848	Marionette	INFO	Stopped listening on port 40845
+1589749722566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqOa200"
+1589749723317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589749723317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589749723318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589749723318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589749725770	Marionette	INFO	Listening on port 43067
+1589749725790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+1589749732559	Marionette	INFO	Stopped listening on port 43067
+1589750222783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZtGda4"
+1589750223526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589750223526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589750223527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589750223527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589750226151	Marionette	INFO	Listening on port 39007
+1589750226198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589750470305	Marionette	INFO	Stopped listening on port 39007
+1589750476410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE3IHcj"
+1589750477165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589750477165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589750477165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589750477166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589750479613	Marionette	INFO	Listening on port 33491
+1589750479630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+1589750487901	Marionette	INFO	Stopped listening on port 33491
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1589750616467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVkvr3b"
+1589750617197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589750617198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589750617198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589750617198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589750619669	Marionette	INFO	Listening on port 37829
+1589750619683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589750637987	Marionette	INFO	Stopped listening on port 37829
+1589750704248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0pZNun"
+1589750705002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589750705002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589750705003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589750705003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589750707602	Marionette	INFO	Listening on port 45601
+1589750707668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589750776214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO47xqd"
+1589750776979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589750776980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589750776980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589750776980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589750779772	Marionette	INFO	Listening on port 42329
+1589750779831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589750802205	Marionette	INFO	Stopped listening on port 42329
+[Parent 23852, Gecko_IOThread] WARNING: pipe error (88): Conexão fechada pela outra ponta: file /build/firefox-W4ZBKx/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589750943470	Marionette	INFO	Stopped listening on port 45601
+1589750945668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTnOSby"
+1589750946391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589750946392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589750946392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589750946392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589750948901	Marionette	INFO	Listening on port 37701
+1589750948983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589750967303	Marionette	INFO	Stopped listening on port 37701
+1589751273471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAkWxnq"
+1589751274230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589751274230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589751274230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589751274231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589751276829	Marionette	INFO	Listening on port 43543
+1589751276886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589751386469	Marionette	INFO	Stopped listening on port 43543
+1589751392947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletkimZJ"
+1589751393696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589751393696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589751393696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589751393697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589751396074	Marionette	INFO	Listening on port 43233
+1589751396164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+1589751401667	Marionette	INFO	Stopped listening on port 43233
+1589751464551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo24XIl"
+1589751465275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589751465275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589751465276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589751465276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589751467752	Marionette	INFO	Listening on port 37443
+1589751467783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+1589751473634	Marionette	INFO	Stopped listening on port 37443
+1589751560760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7SEj7c"
+1589751561983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589751561984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589751561984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589751561984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589751564866	Marionette	INFO	Listening on port 41681
+1589751564943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/main.js:1402:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1583: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/main.js:1402:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/main.js:1402:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/main.js:1402:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
+Line: 334, column: 0
+console.error: ({})
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1589753172649	Marionette	INFO	Stopped listening on port 41681
+1589753180304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5i44r"
+1589753181323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753181324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753181324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753181324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753184210	Marionette	INFO	Listening on port 37115
+1589753184232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+1589753194416	Marionette	INFO	Stopped listening on port 37115
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: NS_ERROR_NOT_INITIALIZED: 
+1589753247958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0vaPgJ"
+1589753248737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753248738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753248738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753248738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753251163	Marionette	INFO	Listening on port 38427
+1589753251179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589753275710	Marionette	INFO	Stopped listening on port 38427
+1589753498809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePSy07X"
+1589753499546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753499546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753499546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753499546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753502042	Marionette	INFO	Listening on port 42363
+1589753502128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589753595795	Marionette	INFO	Stopped listening on port 42363
+1589753600891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKvY8Q1"
+1589753601637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753601638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753601638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753601638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753604067	Marionette	INFO	Listening on port 34643
+1589753604119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+1589753614209	Marionette	INFO	Stopped listening on port 34643
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600A5,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589753623500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezE1Qgz"
+1589753624295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753624296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753624296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753624297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753626721	Marionette	INFO	Listening on port 34997
+1589753626818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+1589753637586	Marionette	INFO	Stopped listening on port 34997
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: NS_ERROR_NOT_INITIALIZED: 
+1589753654039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6dSTEc"
+1589753654805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753654805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753654806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753654806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753657216	Marionette	INFO	Listening on port 35237
+1589753657266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+1589753666790	Marionette	INFO	Stopped listening on port 35237
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1589753728611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNrhlmS"
+1589753729343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753729343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753729343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753729343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753731750	Marionette	INFO	Listening on port 42101
+1589753731822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589753983961	Marionette	INFO	Stopped listening on port 42101
+1589753989088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaJQPOG"
+1589753989850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753989851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753989851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753989851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753992453	Marionette	INFO	Listening on port 36619
+1589753992507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589754195867	Marionette	INFO	Stopped listening on port 36619
+1589754198194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiNAQZp"
+*** You are running in headless mode.
+1589754198825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589754198825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589754198826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589754198826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589754201186	Marionette	INFO	Listening on port 33583
+1589754201211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1573.2263, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1573.2263, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1573.2263, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1573.2263, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589754496956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9bCkTc"
+1589754497717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589754497717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589754497717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589754497718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589754500233	Marionette	INFO	Listening on port 33687
+1589754500269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1589754937239	Marionette	INFO	Stopped listening on port 33687
+1589754941903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZEODy9"
+1589754942643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589754942643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589754942644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589754942644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589754945210	Marionette	INFO	Listening on port 39531
+1589754945229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+1589754955407	Marionette	INFO	Stopped listening on port 39531
+1589755074526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileciybpa"
+1589755075269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755075269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755075269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755075270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589755077616	Marionette	INFO	Listening on port 41039
+1589755077647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+1589755092766	Marionette	INFO	Stopped listening on port 41039
+1589755123155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMIg88u"
+1589755123895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755123895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755123895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755123895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589755126313	Marionette	INFO	Listening on port 41697
+1589755126369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+1589755401081	Marionette	INFO	Stopped listening on port 41697
+1589755403577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileezeSFo"
+1589755404313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755404313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755404314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755404314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589755406782	Marionette	INFO	Listening on port 36071
+1589755406798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+1589755421658	Marionette	INFO	Stopped listening on port 36071
+1589755448410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaYCorw"
+1589755449143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755449143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755449143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755449143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589755451506	Marionette	INFO	Listening on port 44395
+1589755451549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+1589755458624	Marionette	INFO	Stopped listening on port 44395
+1589755538872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuZWP6v"
+1589755539702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755539703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755539703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755539703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589755542325	Marionette	INFO	Listening on port 38983
+1589755542388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+1589755548145	Marionette	INFO	Stopped listening on port 38983
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: NS_ERROR_NOT_INITIALIZED: 
+1589755960662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWeGNEd"
+1589755961443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755961443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755961443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755961443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589755964092	Marionette	INFO	Listening on port 33907
+1589755964182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+1589755973539	Marionette	INFO	Stopped listening on port 33907
+1589756076128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegUjt22"
+1589756076887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756076887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756076888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756076888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589756079297	Marionette	INFO	Listening on port 33151
+1589756079343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+libGL error: MESA-LOADER: failed to retrieve device information
+libGL error: image driver extension not found
+libGL error: failed to load driver: radeon
+libGL error: MESA-LOADER: failed to retrieve device information
+unknown chip id 0x9616, can't guess.
+libGL error: failed to create dri screen
+libGL error: failed to load driver: radeon
+JavaScript error: https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1573.2263, line 2: TypeError: e is undefined
+JavaScript error: https://www.medtag.com.br/i/mid.html?q=www.drogariaspacheco.com.br, line 25: TypeError: document.cookie.split(...)[1] is undefined
+[Parent 31616, Gecko_IOThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-W4ZBKx/firefox-69.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1589756237696	Marionette	INFO	Stopped listening on port 33151
